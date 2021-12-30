@@ -9,5 +9,10 @@
        
    * Policies
         * The Cybersecurity Act 2020 - Ghana
+   * Guides
+      | Timeline | Organisations | Article | Link | Country |
+      | ------ | ------ | ------ | ------ | ------ |
+      | February 2021 | Safaricom PLC, Airtel Kenya, Telkom Kenya and Jamii Telecommunications Ltd in collaboration with Communications Authority of Kenya | Interactive Child Online Protection Guide | https://cop.ke-cirt.go.ke/ | Kenya |
+
    * Platforms
         * Aselo - A software platform to strengthen child helplines across the world
