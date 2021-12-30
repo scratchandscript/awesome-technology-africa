@@ -8,7 +8,10 @@
       | June 2021 | Internet Watch Foundation | (https://report.iwf.org.uk/tn) | Tunisia |
        
    * Policies
-        * The Cybersecurity Act 2020 - Ghana
+      | Timeline | Organisation | Link | Country |
+      | ------ | ------ | ------ | ------ |
+      | December 2001 | The Children Act No. 8 | https://www.end-violence.org/ | Kenya |
+
    * Guides
       | Timeline | Organisations | Article | Link | Country |
       | ------ | ------ | ------ | ------ | ------ |
