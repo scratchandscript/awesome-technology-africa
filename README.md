@@ -1,7 +1,7 @@
 # Awesome Cybersecurity Africa
 
 * Child Protection
- * Organisations
+   * Organisations
   * Child Protection and Health Innovations Africa (CPHIA) - Uganda
   * UNICEF for Every child
   * 
