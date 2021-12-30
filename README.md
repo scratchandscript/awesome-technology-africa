@@ -2,9 +2,11 @@
 
 * Child Protection
     * Organisations
-        * Child Protection and Health Innovations Africa (CPHIA) - Uganda
-        * Internet Watch Foundation (https://report.iwf.org.uk/tn) - Tunisia
-        * 
+      | Date | Organisation | | Country |
+      | ------ | ------ | ------ |
+      | |Child Protection and Health Innovations Africa (CPHIA) | Uganda |
+      | |Internet Watch Foundation (https://report.iwf.org.uk/tn) | Tunisia |
+       
    * Policies
         * The Cybersecurity Act 2020 - Ghana
    * Platforms
